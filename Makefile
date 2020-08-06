@@ -51,3 +51,7 @@ external/can-isotp:
 
 can_db.dbc: can_db.json
 	${PYTHON_VENV}/bin/canconvert ${^} ${@}
+
+.PHONY:
+ovaltine: can_db.dbc
+	candump vcan0 | cantools decode ${^}

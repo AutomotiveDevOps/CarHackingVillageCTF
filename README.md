@@ -15,7 +15,7 @@ http://www.racelogic.co.uk/_downloads/vbox/Vehicles/Other/Docs/Tesla-Model%203.p
     // OBD CAN message IDs
     const auto OBD_CAN_BROADCAST_ID    = 0X7DF;
     const auto OBD_CAN_REQUEST_ID      = 0x7E0;
-    
+
 https://github.com/towynlin/carloop-obd-publisher/blob/master/application.cpp
 
 http://media3.ev-tv.me/Speedhut.pdf
