@@ -1,5 +1,6 @@
 # Configuration
 BUS?=can0
+RATE?=500000
 
 PYTHON_VER?=python3
 PYTHON_VENV?=virtualenv_${PYTHON_VER}
@@ -62,14 +63,14 @@ ovaltine: can_db.dbc
 ovaltine2: can_db.dbc
 	cantools monitor --channel ${BUS} can_db.dbc
 
-.PHONY: canup
+.PHONY: ${BUS}up
 ${BUS}up:
-	sudo ip link set ${BUS} type can bitrate 500000
+	sudo ip link set ${BUS} type can bitrate ${RATE}
 	sleep 1
 	sudo ip link set ${BUS} type can restart-ms 100
 	sleep 1
 	sudo ip link set ${BUS} up
 
-.PHONY: candown
+.PHONY: ${BUS}down
 ${BUS}down:
 	sudo ip link set ${BUS} down

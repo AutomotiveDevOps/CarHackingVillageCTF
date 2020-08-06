@@ -5,3 +5,4 @@ opendbc/
 *.dbc
 external/
 *.log
+.ipynb_checkpoints/
