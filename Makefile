@@ -1,4 +1,6 @@
 # Configuration
+BUS?=can0
+
 PYTHON_VER?=python3
 PYTHON_VENV?=virtualenv_${PYTHON_VER}
 PYTHON_BIN?=$(shell which ${PYTHON_VER})
@@ -54,4 +56,20 @@ can_db.dbc: can_db.json
 
 .PHONY:
 ovaltine: can_db.dbc
-	candump vcan0 | cantools decode ${^}
+	candump ${BUS} | cantools decode ${^}
+
+.PHONY: ovaltine2
+ovaltine2: can_db.dbc
+	cantools monitor --channel ${BUS} can_db.dbc
+
+.PHONY: canup
+${BUS}up:
+	sudo ip link set ${BUS} type can bitrate 500000
+	sleep 1
+	sudo ip link set ${BUS} type can restart-ms 100
+	sleep 1
+	sudo ip link set ${BUS} up
+
+.PHONY: candown
+${BUS}down:
+	sudo ip link set ${BUS} down

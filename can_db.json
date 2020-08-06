@@ -11,7 +11,7 @@
                     "is_big_endian": true,
                     "is_float": false,
                     "is_signed": false,
-                    "name": "DemoLights",
+                    "name": "CTFLights",
                     "offset": "0",
                     "start_bit": 16
                 }

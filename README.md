@@ -4,6 +4,17 @@ https://www.carhackingvillage.com/getting-started
 
 https://www.carhackingvillage.com/grimmcon-ctf
 
+# Sponsored By:
+
+> [CSS Electronics](https://www.csselectronics.com/screen/page/can-bus-logger-about) is a developer of professional-grade, simple-to-use and low cost CAN bus data loggers. We're based in Denmark and operate globally:
+
+> - We supply 1,000+ companies across 80+ countries
+> - Applications include telematics, development & diagnostics
+> - Industries include automotive, heavy duty, motorsports, & production
+> - Users include OEM engineers, operators, site managers & researchers
+> - Assembly is done by ISO 9001:2015 certified US partners - scaling to any volume
+> - We offset 100% of our CO2 footprint
+
 ## Notes.
 
 > Diagnostic tools are able to contact all ECUs installed in a vehicle, which has UDS services enabled. In contrast to the CAN bus protocol, which only uses the first and second layers of the OSI model, UDS utilizes the fifth and seventh layers of the OSI model. The Service ID (SID) and the parameters associated with the services are contained in the 8 data bytes of a message frame.
