@@ -1,0 +1,225 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "is_extended_frame": false,
+      "name": "Counter",
+      "signals": [
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "OneUp",
+          "offset": "0",
+          "start_bit": 0
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "TwoUp",
+          "offset": "0",
+          "start_bit": 8
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "FourUp",
+          "offset": "0",
+          "start_bit": 16
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "EightUp",
+          "offset": "0",
+          "start_bit": 24
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "OneDown",
+          "offset": "0",
+          "start_bit": 32
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "TwoDown",
+          "offset": "0",
+          "start_bit": 40
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "FourDown",
+          "offset": "0",
+          "start_bit": 48
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "EightDown",
+          "offset": "0",
+          "start_bit": 56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "is_extended_frame": false,
+      "name": "Analog",
+      "signals": [
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A0",
+          "offset": "0",
+          "start_bit": 0
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A1",
+          "offset": "0",
+          "start_bit": 8
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A2",
+          "offset": "0",
+          "start_bit": 16
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A3",
+          "offset": "0",
+          "start_bit": 24
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A4",
+          "offset": "0",
+          "start_bit": 32
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "A5",
+          "offset": "0",
+          "start_bit": 40
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "AnalogHeartbeat",
+          "offset": "0",
+          "start_bit": 56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "is_extended_frame": false,
+      "name": "Button",
+      "signals": [
+        {
+          "bit_length": 1,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "K1",
+          "offset": "0",
+          "start_bit": 0
+        },
+        {
+          "bit_length": 1,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "K2",
+          "offset": "0",
+          "start_bit": 8
+        },
+        {
+          "bit_length": 1,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "K3",
+          "offset": "0",
+          "start_bit": 16
+        },
+        {
+          "bit_length": 1,
+          "factor": "1",
+          "is_big_endian": false,
+          "is_float": false,
+          "is_signed": false,
+          "name": "K4",
+          "offset": "0",
+          "start_bit": 24
+        },
+        {
+          "bit_length": 8,
+          "factor": "1",
+          "is_big_endian": true,
+          "is_float": false,
+          "is_signed": false,
+          "name": "ButtonHeartbeat",
+          "offset": "0",
+          "start_bit": 56
+        }
+      ]
+    }
+  ]
+}
