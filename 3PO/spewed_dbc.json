@@ -1,0 +1,526 @@
+{
+    "messages": [
+        {
+            "id": 560,
+            "is_extended_frame": false,
+            "name": "Ox230",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox230_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 592,
+            "is_extended_frame": false,
+            "name": "Ox250",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox250_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 1024,
+            "is_extended_frame": false,
+            "name": "Ox400",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox400_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 800,
+            "is_extended_frame": false,
+            "name": "Ox320",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox320_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 1034,
+            "is_extended_frame": false,
+            "name": "Ox40A",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox40A_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 1029,
+            "is_extended_frame": false,
+            "name": "Ox405",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox405_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        }
+    ]
+}
