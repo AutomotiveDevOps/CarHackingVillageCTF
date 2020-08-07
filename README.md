@@ -17,7 +17,7 @@ https://www.carhackingvillage.com/grimmcon-ctf
 
 ![](https://s3-eu-west-1.amazonaws.com/images.smoolis.com/c408510c-077d-4269-bd67-0f6c55129510/CANedge2-CAN-Bus-Data-Logger-WiFi-Telematics.jpg)
 
->> CANedge2: 2x CAN Bus Data Logger (SD + WiFi)
+>> [CANedge2: 2x CAN Bus Data Logger (SD + WiFi)](https://www.csselectronics.com/screen/product/can-lin-logger-wifi-canedge2/language/en#void)
 
 > The plug & play 2xCAN/LIN logger records timestamped CAN data (Classical/CAN FD) to the extractable 8 GB industrial SD card.
 
@@ -26,6 +26,21 @@ https://www.carhackingvillage.com/grimmcon-ctf
 > The CANedge2 is ideal for telematics & fleet management - as well as R&D field tests, diagnostics and predictive maintenance.
 
 > Software/APIs are free & open source - with no subscription fees or vendor lock-in.
+
+>> [Secure CAN Bus Logging & Telematics - A Simple Intro](https://www.csselectronics.com/screen/page/secure-can-bus-logging-telematics-intro)
+
+> 9 security factors to review in your CAN logging setup
+
+> 1. Is the manufacturing process secure?
+> 2. Does the logger enable code protection?
+> 3. Is the firmware digitally signed and updatable OTA?
+> 4. Can passwords be encrypted & rotated as per NIST guidelines?
+> 5. Can SD data be encrypted as per NIST guidelines?
+> 6. Is data uploaded securely as per NIST guidelines?
+> 7. Can server access be monitored and controlled?
+> 8. Are security critical data unique for each device/purpose?
+> 9. Can TLS certificates be updated over-the-air?
+> 
 
 ## Reverse Engineering Case Studies
 
@@ -38,7 +53,7 @@ https://www.carhackingvillage.com/grimmcon-ctf
 [Albach Maschinenbau. Self Propelled Mobile Tree Fellers / ~100 FTEs / Germany - *Optimizing systems in mobile foresters*](https://www.csselectronics.com/screen/page/can-logger-use-case-study-examples#albach-case-mobile-forester)
 
 
-## Notes.
+# DEF CON Notes.
 
 > Diagnostic tools are able to contact all ECUs installed in a vehicle, which has UDS services enabled. In contrast to the CAN bus protocol, which only uses the first and second layers of the OSI model, UDS utilizes the fifth and seventh layers of the OSI model. The Service ID (SID) and the parameters associated with the services are contained in the 8 data bytes of a message frame.
 
