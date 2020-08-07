@@ -4,7 +4,7 @@ https://www.carhackingvillage.com/getting-started
 
 https://www.carhackingvillage.com/grimmcon-ctf
 
-# Sponsored By:
+# Sponsored By: ![](https://www.csselectronics.com/script/getLogoImage/id/klikthis:LogoImage:sm011685180628698/logo.png)
 
 > [CSS Electronics](https://www.csselectronics.com/screen/page/can-bus-logger-about) is a developer of professional-grade, simple-to-use and low cost CAN bus data loggers. We're based in Denmark and operate globally:
 
@@ -14,6 +14,29 @@ https://www.carhackingvillage.com/grimmcon-ctf
 > - Users include OEM engineers, operators, site managers & researchers
 > - Assembly is done by ISO 9001:2015 certified US partners - scaling to any volume
 > - We offset 100% of our CO2 footprint
+
+![](https://s3-eu-west-1.amazonaws.com/images.smoolis.com/c408510c-077d-4269-bd67-0f6c55129510/CANedge2-CAN-Bus-Data-Logger-WiFi-Telematics.jpg)
+
+>> CANedge2: 2x CAN Bus Data Logger (SD + WiFi)
+
+> The plug & play 2xCAN/LIN logger records timestamped CAN data (Classical/CAN FD) to the extractable 8 GB industrial SD card.
+
+> The small device connects via WiFi access points (e.g. WLAN or 3G/4G routers) to securely push data to your server. Further, the device can be updated over-the-air.
+
+> The CANedge2 is ideal for telematics & fleet management - as well as R&D field tests, diagnostics and predictive maintenance.
+
+> Software/APIs are free & open source - with no subscription fees or vendor lock-in.
+
+## Reverse Engineering Case Studies
+
+![](https://canlogger1000.csselectronics.com/img/cases/use-cases/Louter-Control-Logo-Use-Case.jpg)
+
+[Louter Control. Control Systems / Netherlands - *Remote reverse engineering of machinery *Louter Control. Control Systems / Netherlands.*](https://www.csselectronics.com/screen/page/can-logger-use-case-study-examples#louter-control-case-wifi-reverse-engineering)
+
+![](https://canlogger1000.csselectronics.com/img/cases/use-cases/Albach-Use-Case-Logo_v3.png)
+
+[Albach Maschinenbau. Self Propelled Mobile Tree Fellers / ~100 FTEs / Germany - *Optimizing systems in mobile foresters*](https://www.csselectronics.com/screen/page/can-logger-use-case-study-examples#albach-case-mobile-forester)
+
 
 ## Notes.
 
